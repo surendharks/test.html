@@ -1,0 +1,41 @@
+h1{ text-align: center;
+	color: white;
+	background-color: black ;
+	background-width:500px;
+
+	
+}
+button{
+	margin-right: 310px;
+}
+h3{color: red;
+	padding-top: :100px;
+}
+}
+hr{
+	border: solid black;
+}
+ul{
+padding-right: 100px;
+
+padding-top: 20px;
+font-family: montserrata;
+}
+
+div{
+	background-image: url("https://assets.entrepreneur.com/content/3x2/2000/20190102161219-GettyImages-904000456.jpeg?width=1500&crop=1") ;
+	color:white;
+padding-top: 50px;
+
+border-style: solid ;
+padding-left: 500px;
+
+
+}
+footer{
+	background-color: black;
+	background-height: 100px;
+	font-style: monserrata;
+	color: white;
+	padding-left: 50%;
+}
